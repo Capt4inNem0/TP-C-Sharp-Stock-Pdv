@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ReplicaTpFinal.WebApi.props" />
+</Project>
